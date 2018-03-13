@@ -15,7 +15,7 @@ setup(name='nanth',
 	install_requires=[
 		'pandas',
 		'numpy',
-		'scipy'
+		'scipy',
 		],
 	zip_safe=False)
 
